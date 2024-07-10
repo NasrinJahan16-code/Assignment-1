@@ -1,0 +1,169 @@
+.web-title{
+    text-align:center;
+
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+
+.banner{
+    background-image:url(./assets/Hero-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.men{
+    position: relative;
+    height: 200px;
+    left: 450px;
+    top: 20px;
+    z-index: 100;
+}
+
+.text-center{
+    text-align: center;
+}
+.button{
+    display: block;
+    margin: auto;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 120px;
+}
+
+
+/* 2nd part */
+.why-web{
+    margin-top: 40px;
+}
+    .code-container{
+        margin: 30px 20px 20px 20px;
+        padding: 50px;
+        
+    }
+    .part1{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .part1left{
+        text-align: right;
+        padding: 300px;
+        
+    }
+    .part1right{
+        margin-left: 200px;
+}
+    .part2{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .part2left{
+        text-align: right;
+    }
+
+    .part3{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    
+    .part3right{
+        text-align: left;
+    }
+.button2{
+    height: 30px;
+    width: 100px;
+    border: 1px solid black;
+    display: block;
+    margin: 20px;
+
+}
+
+
+
+    /* 3rd part */
+.video-part{
+    margin: 40px;
+}
+ 
+
+
+/* 4th-part */
+.target-container{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+
+}
+.target{
+    border-radius: 8px;
+    height: 280px;
+    width: 250px;
+    padding: 30px;
+    box-shadow: 0px 5px 50px 0px antiquewhite ;
+}
+/* .connect{
+    height: 300px;
+    width: 900px;
+    border-radius: 20px;
+    border: 2px solid  black;
+    margin-left: 300px;
+    margin-right:300px;
+} */
+ /* .cunnect{
+    background-image: url(./assets/handshake.jpg);
+    height: 300px;
+    width: 900px;
+    margin-left: 200px;
+    margin-right: 200px;
+    position: relative;
+    background-repeat: no-repeat;
+ } */
+ .banner2{
+    background-image:url(./assets/handshake.jpg);
+    height: 300px;
+    width: 80%%;
+    background-attachment::fixed;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.support{
+    color: white;
+    margin-top: 30px;
+}
+.feedback{
+    height: 35px;
+    width: 470px;
+    text-align: center;
+    margin-left: 150px;
+    border-radius: 30px;
+}
+.submit-btn{
+    height: 35px;
+    width:70px ;
+    margin-left: 30px;
+    border-radius: 7px;
+}
+.last-right{
+    text-align: right;
+    margin-top: -20px;
+    text-underline-position: below;
+
+}
+.last{
+    color: black;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+
+}
